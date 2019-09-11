@@ -96,3 +96,17 @@ h2 {
   .pics2 {
     padding: 15px;
   }
+
+  #frame1 {
+    padding: 10px; 
+    
+  }
+
+  #frame2 {
+    padding: 10px;
+  }
+
+  .row {
+    padding: 10px;
+   justify-content: center;
+  }
